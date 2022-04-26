@@ -1,6 +1,6 @@
 {
-    "name": "primevue",
-    "version": "2.9.2",
+    "name": "@chrisuehlinger-techslice/primevue",
+    "version": "2.9.3-alpha.3",
     "homepage": "https://www.primefaces.org/primevue",
     "repository": {
       "type": "git",
