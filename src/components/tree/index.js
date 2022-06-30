@@ -1,2 +1,2 @@
 'use strict';
-module.exports = require('./Tree.vue');
+export { default } from './Tree.vue';

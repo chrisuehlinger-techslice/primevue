@@ -1,2 +1,2 @@
 'use strict';
-module.exports = require('./Ripple.js');
+export { default } from './Ripple.js';

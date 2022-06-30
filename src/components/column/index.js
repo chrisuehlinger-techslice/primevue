@@ -1,2 +1,2 @@
 'use strict';
-module.exports = require('./Column.vue');
+export { default } from './Column.vue';

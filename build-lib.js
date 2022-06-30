@@ -92,7 +92,7 @@ fs.readdirSync(path.resolve(__dirname, './src/components/')).forEach(folder => {
                 if (/\.js$/.test(file)) {
                     console.log('Transpiling ' + blue(file));
                     buildComponent(folder, file, name);
-                    transpileJS(folder, file);
+                    // transpileJS(folder, file);
                 }
                 else if (/\.vue$/.test(file)) {
                     console.log('Building ' + green(name));

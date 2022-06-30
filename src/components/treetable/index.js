@@ -1,2 +1,2 @@
 'use strict';
-module.exports = require('./TreeTable.vue');
+export { default } from './TreeTable.vue';
