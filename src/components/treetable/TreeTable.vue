@@ -899,7 +899,7 @@ export default {
 </script>
 
 <style>
-.p-treetable {
+/* .p-treetable {
     position: relative;
 }
 
@@ -945,7 +945,6 @@ export default {
     vertical-align: middle;
 }
 
-/* Resizable */
 .p-treetable-resizable > .p-treetable-wrapper {
     overflow-x: auto;
 }
@@ -991,5 +990,5 @@ export default {
     align-items: center;
     justify-content: center;
     z-index: 2;
-}
+} */
 </style>

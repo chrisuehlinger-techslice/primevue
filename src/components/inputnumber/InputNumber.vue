@@ -977,7 +977,7 @@ export default {
 </script>
 
 <style>
-.p-inputnumber {
+/* .p-inputnumber {
     display: inline-flex;
 }
 
@@ -1076,5 +1076,5 @@ export default {
 
 .p-fluid .p-inputnumber-buttons-vertical .p-inputnumber-input {
     width: 100%;
-}
+} */
 </style>

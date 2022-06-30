@@ -539,7 +539,7 @@ export default {
 </script>
 
 <style>
-.p-dropdown {
+/* .p-dropdown {
     display: inline-flex;
     cursor: pointer;
     position: relative;
@@ -624,5 +624,5 @@ input.p-dropdown-label  {
 
 .p-fluid .p-dropdown .p-dropdown-label {
     width: 1%;
-}
+} */
 </style>
